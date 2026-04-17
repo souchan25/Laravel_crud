@@ -15,15 +15,19 @@ return [
 
     'members' => [
         [
-            'name' => 'Full Name — Member 1',
-            'role' => 'Lead Developer',
+            'name' => 'Eugene D. Pausa',
+            'role' => 'Main Developer',
         ],
         [
-            'name' => 'Full Name — Member 2',
+            'name' => 'Tricia Angelie C. Jalandoon',
             'role' => 'UI/UX Designer',
         ],
         [
-            'name' => 'Full Name — Member 3',
+            'name' => 'Mary Joy A. Mayo',
+            'role' => 'UI/UX Designer',
+        ],
+        [
+            'name' => 'Friency Rose Martinez',
             'role' => 'Database Administrator',
         ],
     ],
